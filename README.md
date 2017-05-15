@@ -1,2 +1,5 @@
 # hello-world
-First repository lol
+
+Repository readme by Mas Asif aka Lidros
+
+/////psn LeMoosePie/////
